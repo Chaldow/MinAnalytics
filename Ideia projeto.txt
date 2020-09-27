@@ -1,0 +1,1 @@
+Um CRM/Analytics para pequenos estabelecimentos. O cliente precisa que o sistema identifique seus clientes, o que compram, quando compram, qual lugar divulgar. Que mostre os dados em gráficos e faça um ranking com os melhores clientes.
